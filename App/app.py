@@ -1,5 +1,6 @@
 
 import dash
+import tkinter
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
@@ -12,6 +13,7 @@ import pandas as pd
 from skimage import io
 import plotly.graph_objs as go
 import plotly.express as px
+
 
 
 
