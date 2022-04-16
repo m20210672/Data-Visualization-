@@ -1,0 +1,14 @@
+gunicorn
+dash
+dash-core-components
+dash-html-components
+dash.dependencies
+dash-daq
+dash-bootstrap-components
+matplotlib
+numpy
+pandas
+skimage
+plotly
+plotly.graph_objs
+plotly.express
